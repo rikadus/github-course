@@ -14,3 +14,5 @@ Saiba mais com o kadu
 
 
 Bom, chega de conversa e vamos ao que interessa :
+
+Finalizando
